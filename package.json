@@ -1,0 +1,19 @@
+{
+  "name": "gradingsystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "cli-spinners": "^2.6.0",
+    "cli-table": "^0.3.6",
+    "ora": "^5.4.1",
+    "yargs": "^17.0.1"
+  }
+}
